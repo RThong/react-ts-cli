@@ -1,5 +1,6 @@
+config
 node_modules
-dist
+pulic
 **/*.d.ts
 scripts
-config
+dist
